@@ -30,6 +30,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Elocution Simplified
 
   With An Appendix on Lisping, Stammering, Stuttering, and
